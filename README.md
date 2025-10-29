@@ -27,7 +27,8 @@ Contains anonymous student survey responses collected for coursework.
 
 ---
 
-> 💡 Built by **Senaya Amarasinghe (HND in Data Science – NIBM Sri Lanka)**  
+> 💡 Built by **K.D.Senaya Amarasinghe (HND in Data Science – NIBM Sri Lanka)**  
 > for the module: *Data Visualization / Coursework Dashboard Project*
+
 
 
