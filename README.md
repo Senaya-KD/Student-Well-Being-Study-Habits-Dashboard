@@ -32,15 +32,19 @@ The dataset (`clean_survey.csv`) was created from survey responses collected fro
    ```bash
    git clone https://github.com/Senaya-KD/Student-Well-Being-Study-Habits-Dashboard.git
    cd Student-Well-Being-Study-Habits-Dashboard
+   
 2.Install dependencies:
   pip install -r requirements.txt
+  
 3.Run the dashboard:
   python app.py
+  
 4.Then open http://127.0.0.1:8050/ in your browser.
 
 ### Created by
 **K.D.Senaya Amarasinghe**  
 Data Science Student – NIBM (HNDDS 24.2F)
+
 
 
 
