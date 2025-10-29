@@ -1,0 +1,28 @@
+body {
+    background-color: #f8f9fa;
+    font-family: "Segoe UI", sans-serif;
+}
+
+h1, h3 {
+    color: #2E86C1;
+    text-align: center;
+}
+
+.card {
+    background-color: #ffffff;
+    padding: 12px 20px;
+    border-radius: 12px;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    font-weight: bold;
+    color: #2c3e50;
+    min-width: 200px;
+}
+
+hr {
+    border: 1px solid #e0e0e0;
+}
+
+.dash-table-container .dash-spreadsheet-container {
+    border-radius: 8px;
+}
